@@ -54,8 +54,8 @@ The project leverages the following AWS services:
   3. **filterLowConfidence**: Ensures only high-confidence inferences are passed downstream.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./screenshots/stepfunctions_graph.png" alt="Step Functions Workflow" style="width: 45%;">
-    <img src="./screenshots/stepfunction-success-run.png" alt="Step Function in action" style="width: 45%;">
+    <img src="https://github.com/rukayat-adedeji/ML-Workflow-On-Amazon-SageMaker/blob/main/stepfunctions_graph.png" alt="Step Functions Workflow" style="width: 45%;">
+    <img src="https://github.com/rukayat-adedeji/ML-Workflow-On-Amazon-SageMaker/blob/main/stepfunction-success-run.png" alt="Step Function in action" style="width: 45%;">
 </div>
 
 
